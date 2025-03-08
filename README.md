@@ -29,7 +29,7 @@ I believe that technology is present in all areas and with it we have the possib
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23563D7C.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23323330.svg?style=for-the-badge&logo=amazon&logoColor=white)
-![GCP](https://img.shields.io/badge/gcp-%23323330.svg?style=for-the-badge&logo=gcp&logoColor=white)
+![GCP](https://img.shields.io/badge/gcp-%236DB33F.svg?style=for-the-badge&logo=google&logoColor=white)
 <!--
 **fabiomartinsbrrj/fabiomartinsbrrj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
